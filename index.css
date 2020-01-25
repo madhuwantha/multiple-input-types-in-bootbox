@@ -1,0 +1,7 @@
+/*Hidden the checkbox of the bootbox*/
+.bootbox-input-checkbox{
+    visibility: hidden;
+}
+.form-check-label{
+    width: 100%;
+}
